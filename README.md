@@ -1,6 +1,4 @@
-### Hi there! 👋
-
-## My name is Saugstauber and I'm a self taught developer. You're interested in what languages I program? Just look below!
+![grafik](https://user-images.githubusercontent.com/57033944/175437566-0c4af397-b17a-4566-a11e-ea5feaf345aa.png)
 
 - C#
 - HTML/CSS
