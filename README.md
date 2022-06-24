@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there! 👋
+
+## My name is Saugstauber and I'm a self taught developer. You're interested in what languages I program? Just look below!
+
+- C#
+- HTML/CSS
+- JavaScript
 
 <!--
 **saugstauberr/saugstauberr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
