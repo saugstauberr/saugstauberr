@@ -4,7 +4,7 @@
 ### Hello there! 👋
 ### My name is Saugstauber and I'm a self-taught developer!
 
-### Languages:
+### Skills:
 - C#
 - HTML/CSS
 - JavaScript
